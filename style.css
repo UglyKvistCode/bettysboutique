@@ -1,0 +1,33 @@
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+
+
+header {
+    background-color: lightpink;
+    height: 118px;
+    width: 1024px;
+}
+
+
+nav {
+    background-color: rgb(241, 116, 220);
+    height: 40px;
+}
+
+
+main {
+    background-color: rgb(139, 91, 197);
+    height: 400px;
+}
+
+
+footer {
+    background-color: rgb(136, 105, 223);
+    height: 100px;
+}
+
+
+

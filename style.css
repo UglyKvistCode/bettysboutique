@@ -1,5 +1,7 @@
 body {
     background-color: purple;
+    background-image: url(images/kamekichi-photos-x-Qg8xhwQL0-unsplash.jpg);
+    background-size: cover;
 }
 
 
@@ -11,7 +13,6 @@ body {
 
 
 header {
-    background-color: lightpink;
     height: 190px;
     width: 1024px;
     text-align: center;
@@ -28,10 +29,25 @@ nav {
 
 
 main {
-    background-color: rgb(139, 91, 197);
     height: 400px;
+    text-align: center;
+    padding-top: 80px;
+    padding-left: 240px;
+    padding-right: 240px;
 }
 
+h1 {
+    font-size: 84px;
+    color: rgb(179, 125, 230);
+    font-family:'Times New Roman', Times, serif;
+
+}
+p {
+    font-size: 18px;
+    color: rgb(153, 121, 182);
+    font-family: 'Times New Roman', Times, serif;
+
+}
 
 footer {
     background-color: rgb(136, 105, 223);

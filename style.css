@@ -1,7 +1,13 @@
+html {
+    height: 100%;
+}
+
 body {
     background-color: purple;
     background-image: url(images/kamekichi-photos-x-Qg8xhwQL0-unsplash.jpg);
     background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 
@@ -23,7 +29,7 @@ header {
 }
 
 nav {
-    background-color: rgb(241, 116, 220);
+    background-color: #ad6f7a60;
     height: 40px;
 }
 
@@ -38,21 +44,28 @@ main {
 
 h1 {
     font-size: 84px;
-    color: rgb(179, 125, 230);
+    color: #8C5861;
     font-family:'Times New Roman', Times, serif;
 
 }
 p {
     font-size: 18px;
-    color: rgb(153, 121, 182);
+    color: #8C5861;
     font-family: 'Times New Roman', Times, serif;
 
 }
 
 footer {
-    background-color: rgb(136, 105, 223);
+    background-color:#ad6f7a70;
     height: 100px;
+    margin-top: 90px;
 }
 
+.footer {
+  font-size: small;
+  text-align: center;
+  padding-top: 50px;  
+  color: #4E3338;
+}
 
 

@@ -12,10 +12,13 @@ body {
 
 header {
     background-color: lightpink;
-    height: 118px;
+    height: 190px;
     width: 1024px;
 }
 
+.logo {
+    width: 200px;
+}
 
 nav {
     background-color: rgb(241, 116, 220);

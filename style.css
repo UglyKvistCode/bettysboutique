@@ -36,7 +36,7 @@ nav {
     
 }
 nav a {
-    color: #4E3338;
+    color: #2a1a1d;
     text-decoration: none;
     font-family: 'Times New Roman', Times, serif;
     font-size: 14px;
@@ -47,35 +47,36 @@ nav a {
 main {
     height: 400px;
     text-align: center;
-    padding-top: 80px;
+    padding-top: 40px;
     padding-left: 240px;
     padding-right: 240px;
 }
 
 h1 {
     font-size: 84px;
-    color: #8C5861;
+    color: #2a1a1d;
     font-family:'Times New Roman', Times, serif;
 
 }
 p {
     font-size: 18px;
-    color: #8C5861;
+    color: #2a1a1d;
     font-family: 'Times New Roman', Times, serif;
 
 }
 
 footer {
     background-color:#ad6f7a70;
-    height: 100px;
+    padding-top: 15px;
+    padding-bottom: 15px;
     margin-top: 90px;
 }
 
 .footer {
-  font-size: small;
+  font-size: 12px;
   text-align: center;
-  padding-top: 50px;  
-  color: #4E3338;
+  padding-top: 7px;  
+  color: #2a1a1d;
 }
 
 

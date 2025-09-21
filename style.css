@@ -30,9 +30,19 @@ header {
 
 nav {
     background-color: #ad6f7a60;
-    height: 40px;
+    text-align: center;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    
 }
-
+nav a {
+    color: #4E3338;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
 
 main {
     height: 400px;
